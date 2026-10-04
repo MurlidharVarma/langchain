@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "user_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nCreate a response in less than 10 words. Ensure the response is concise, crips and clear. Avoid using filler words or unnecessary phrases.\n\nExample:\n\nUser Input: What AI subjects should I study that would become valuable in the next 5 years\nResponse: Study AI subjects like machine learning, NLP, and robotics for future relevance.\n\nUser Input: What is the captial of India?\nResponse: New Delhi\n\nUser Input: What is teleporation?\nResponse: Teleportation is the transfer of matter or energy instantly.\n\nUser Input: {user_input}\nResponse:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

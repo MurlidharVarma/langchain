@@ -1,0 +1,20 @@
+langchain
+langchain-core
+
+langchain-openai
+openai
+
+langchain-anthropic
+
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers #for local embedding models
+
+python-dotenv
+
+numpy
+scikit-learn
+torch
+pandas
+streamlit
